@@ -33,7 +33,7 @@ The goal is to compare how these algorithms perform on the same dataset (Bank Ma
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/your-username/customer-segmentation-kmeans-dbscan.git
+git clone https://github.com/norannali/unsupervised-customer-segmentation.git
 cd customer-segmentation-kmeans-dbscan
 ````
 
